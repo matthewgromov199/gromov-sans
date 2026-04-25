@@ -1,11 +1,7 @@
 > [!NOTE]
-> A version 2 of Gromov Sans is in works, and will be uploaded to this repository. As for now, the repository is either empty, or will have version 1 uploaded, until the version 2 gets finished.
->
-> New additions in version 2 will include extended script compatibility, IPA extensions support, improved kerning for some letters, improved vertical metrics for consistency with other fonts (like Ubuntu or Inter) and improved vertical centering for websites, optimisations for wider system compatibility and low-resolution screens and fixed TrueType outline conversion (to prevent visible dents in larger sizes, fixed for designers).
->
-> Currently, the repository contains compiled files for version 1.
+> The source files will be uploaded once version 2 of Gromov Sans is done. As of right now, it is currently in discussion, whether version 1's source file (FontLab 8 format) shall be uploaded here.
 
 <h1>Source files</h1>
-This folder includes project files for Gromov Sans. The font is created in FontLab 8, meaning that the project files are suitable for those who have a copy of the FontLab software.
+This folder includes project files for Gromov Sans. The font is created in the FontLab 8 software, meaning that the project files are suitable for those who have a copy of the FontLab 8 software.
 
 This also includes converted Glyphs project files for those who prefer using the Glyphs software instead. 
