@@ -3,7 +3,7 @@
 >
 > New additions in version 2 will include extended script compatibility, IPA extensions support, improved kerning for some letters, improved vertical metrics for consistency with other fonts (like Ubuntu or Inter) and improved vertical centering for websites, optimisations for wider system compatibility and low-resolution screens and fixed TrueType outline conversion (to prevent visible dents in larger sizes, fixed for designers).
 >
-> Currently, the repository contains files for version 1.
+> A beta of version 2 will be uploaded here today soon.
 
 <h1>Gromov Sans</h1>
 Gromov Sans is a free and open-source typeface, designed for the Fluidiance design language. It is a geometric sans-serif font, designed to be a versatile font that can be used for all applications, including use in software, branding, graphic design and more. It is also designed to be optimised for wider system compatibility. Additional serif and chalkboard variations are in development, and will be included in this repository.
