@@ -14,4 +14,4 @@ Gromov Sans is a free and open-source typeface, designed for the Fluidiance desi
 
 <br>
 
-[![Sample](misc/gromovsans.png)]
+(misc/gromovsans.png)
