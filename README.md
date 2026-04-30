@@ -10,7 +10,7 @@ Gromov Sans is a free and open-source typeface, designed for the Fluidiance desi
 
 <br>
 
-[**Download**](https://github.com/matthewgromov199/gromovsans/releases/latest)
+[**Download**](https://github.com/matthewgromov199/gromovsans/releases/latest) (Releases page in works)
 
 <br>
 
