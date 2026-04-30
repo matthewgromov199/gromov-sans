@@ -7,7 +7,7 @@
 
 <h1>Gromov Sans</h1>
 Gromov Sans is a free and open-source typeface, designed for the Fluidiance design language. It is a geometric sans-serif font, designed to be a versatile font that can be used for all applications, including use in software, branding, graphic design and more. It is also designed to be optimised for wider system compatibility. Additional serif and chalkboard variations are in development, and will be included in this repository.
-
+<br>
 [**Download**](https://github.com/matthewgromov199/gromovsans/releases/latest)
 
 <br>
